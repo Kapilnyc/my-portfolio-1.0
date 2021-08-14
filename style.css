@@ -1,0 +1,73 @@
+
+.text {
+    border-style:outset;
+    background-image: url(google-desktop-wallpapers-5.jpg);
+
+}
+
+
+h2 {
+    border-style:outset;
+    margin-right: 950px;
+    background-color:lavenderblush;
+}
+
+H1 {
+    border-style:ridge;
+    margin-right:680;
+    background-color:lavender;
+}
+
+h3 {
+    border-style:outset;
+    background-color:cornsilk;
+    margin-top: 0px;
+    font-family: cursive;
+    margin-bottom: 0px;
+}
+
+.text1 {
+
+}
+
+p {
+    margin-top: 0px;
+    font-family: monospace;
+    
+}
+
+iframe {
+    margin-left: 500px;
+    border-style:double;
+    
+    
+}
+
+input {
+    margin-top:150px;
+}
+
+form {
+    text-align: center;
+}
+
+.big_text {
+    background-image: url("google-desktop-wallpapers-19.jpg");
+    
+}
+
+div {
+    margin-top: 2px;
+    font-variant-position: super;
+}
+
+.small_text {
+    border-bottom:none;
+    border-top:none;
+    margin-top: -140px;
+    border-bottom-width: thin;
+}
+
+.text_2 {
+    background-image: url("google-desktop-wallpapers-16.jpg")
+}
